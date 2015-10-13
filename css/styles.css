@@ -1,0 +1,41 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+    font-family: 'Lato', sans-serif;
+    color: #9C9B9B;
+    font-weight: 300;
+}
+a {
+    color: gray;
+}      /* unvisited link */
+a:visited {
+    color: #00ff00;
+}  /* visited link */
+a:hover {
+    color: #ff00ff;
+}  /* mouse over link */
+a:active {
+    color: #0000ff;
+}  /* selected link */
+.text-muited {
+    color: #d0d0d0;
+}
+.text-highlighted {
+    color: black;
+}
+.text-thin {
+    font-size: 60px;
+    font-weight: 200;
+}
+.title-super {
+    font-size: 60px;
+}
+.title-logo {
+    margin-top: 0px;
+}
+.hr-style {
+	border: none; 
+	height: 2px; 
+	color: grey; 
+	background:#a7a6a6;	
+}
